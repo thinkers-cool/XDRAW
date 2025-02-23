@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <defs>
+        <linearGradient id="Rose" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#fda4af" />
+            <stop offset="0%" stop-color="#e11d48" />
+        </linearGradient>
+        <linearGradient id="Pink" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#f9a8d4" />
+            <stop offset="0%" stop-color="#db2777" />
+        </linearGradient>
+        <linearGradient id="Fuchsia" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#f0abfc" />
+            <stop offset="0%" stop-color="#c026d3" />
+        </linearGradient>
+        <linearGradient id="Purple" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#d8b4fe" />
+            <stop offset="0%" stop-color="#9333ea" />
+        </linearGradient>
+        <linearGradient id="Violet" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#c4b5fd" />
+            <stop offset="0%" stop-color="#7c3aed" />
+        </linearGradient>
+        <linearGradient id="Indigo" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#a5b4fc" />
+            <stop offset="0%" stop-color="#4f46e5" />
+        </linearGradient>
+        <linearGradient id="Blue" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#93c5fd" />
+            <stop offset="0%" stop-color="#2563eb" />
+        </linearGradient>
+        <linearGradient id="Sky" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#7dd3fc" />
+            <stop offset="0%" stop-color="#0284c7" />
+        </linearGradient>
+        <linearGradient id="Cyan" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#67e8f9" />
+            <stop offset="0%" stop-color="#0891b2" />
+        </linearGradient>
+        <linearGradient id="Teal" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#5eead4" />
+            <stop offset="0%" stop-color="#0d9488" />
+        </linearGradient>
+        <linearGradient id="Emerald" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#6ee7b7" />
+            <stop offset="0%" stop-color="#059669" />
+        </linearGradient>
+        <linearGradient id="Green" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#86efac" />
+            <stop offset="100%" stop-color="#16a34a" />
+        </linearGradient>
+        <linearGradient id="Lime" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#bef264" />
+            <stop offset="0%" stop-color="#65a30d" />
+        </linearGradient>
+        <linearGradient id="Yellow" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#fde047" />
+            <stop offset="0%" stop-color="#ca8a04" />
+        </linearGradient>
+        <linearGradient id="Amber" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#fcd34d" />
+            <stop offset="0%" stop-color="#d97706" />
+        </linearGradient>
+        <linearGradient id="Orange" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#fdba74" />
+            <stop offset="0%" stop-color="#ea580c" />
+        </linearGradient>
+        <linearGradient id="Red" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#fca5a5" />
+            <stop offset="0%" stop-color="#dc2626" />
+        </linearGradient>
+        <linearGradient id="Stone" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#d6d3d1" />
+            <stop offset="0%" stop-color="#57534e" />
+        </linearGradient>
+        <linearGradient id="Neutral" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#d4d4d4" />
+            <stop offset="0%" stop-color="#525252" />
+        </linearGradient>
+        <linearGradient id="Zinc" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#d4d4d8" />
+            <stop offset="0%" stop-color="#52525b" />
+        </linearGradient>
+        <linearGradient id="Gray" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#d1d5db" />
+            <stop offset="0%" stop-color="#4b5563" />
+        </linearGradient>
+        <linearGradient id="Slate" gradientTransform="rotate(135)">
+            <stop offset="0%" stop-color="#cbd5e1" />
+            <stop offset="0%" stop-color="#475569" />
+        </linearGradient>
+    </defs>
+    <defs><filter id="blur1" x="-10%" y="-10%" width="120%" height="120%"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend><feGaussianBlur stdDeviation="27" result="effect1_foregroundBlur"></feGaussianBlur></filter></defs><rect width="128" height="128" fill="#C4D9FF"></rect><g filter="url(#blur1)"><circle cx="80" cy="20" fill="#E8F9FF" r="60"></circle><circle cx="34" cy="87" fill="#C4D9FF" r="60"></circle><circle cx="24" cy="119" fill="#E8F9FF" r="60"></circle><circle cx="122" cy="26" fill="#E8F9FF" r="60"></circle><circle cx="54" cy="43" fill="#C4D9FF" r="60"></circle><circle cx="93" cy="82" fill="#E8F9FF" r="60"></circle></g>
+    <path d="M 8 8 L 120 8 L 120 32 L 8 80 Z M 8 96 L 120 80 L 120 120 L 8 120 Z" fill="url('#Indigo')"/>
+</svg>
