@@ -1,4 +1,4 @@
-# XDRAW
+# XDRAW (Thinkers AI Drawing)
 
 XDRAW is an intelligent CAD drawing application that combines the power of Excalidraw's intuitive drawing interface with AI assistance and DXF file support.
 
