@@ -5,7 +5,9 @@ XDRAW is an intelligent CAD drawing application that combines the power of Excal
 ## Features
 
 - **AI-Powered Drawing Assistant**: Integrated AI assistant helps users create and modify technical drawings through natural language interaction
+![AI Suggestions](./public/AI-suggestions.png)
 - **DXF File Support**: Import and export DXF files for compatibility with professional CAD software
+![DXF Support](./public/DXF-support.png)
 - **Interactive Drawing Canvas**: Built on Excalidraw for a smooth, responsive drawing experience
 - **Real-time Collaboration**: Modern React-based architecture supporting real-time updates
 - **Intelligent Toolbar**: Quick access to essential drawing tools and file operations
